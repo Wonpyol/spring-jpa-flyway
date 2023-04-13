@@ -1,0 +1,1 @@
+ALTER TABLE member ADD COLUMN address1 varchar(100);
